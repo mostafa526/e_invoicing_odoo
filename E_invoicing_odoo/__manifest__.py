@@ -11,7 +11,12 @@
     'data': [
         #'security/ir.model.access.csv',
     ],
+
+    'images': [
+        'images/main_screenshot.png',
+        
+    ],
     'installable': True,
-    'application': False,
+    'application': True,
     "license": "LGPL-3",
 }
